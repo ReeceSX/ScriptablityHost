@@ -1,0 +1,9 @@
+Object
+*.exe
+*.pdb
+*.lib
+*.ipdb
+*.vcxproj.user
+*.vcxproj.filters
+.vs/
+.vs
